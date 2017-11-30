@@ -9,3 +9,9 @@ It helps you write applications that behave consistently, run in different envir
 
 You can use Redux together with [React](https://facebook.github.io/react/), or with any other view library.  
 It is tiny (2kB, including dependencies).
+
+# Table of Contents
+
+* [Read Me](/README.md)
+* [Introduction by DG1](/dg1.md)
+  * [Motivation by DG2](/dg2.md)
